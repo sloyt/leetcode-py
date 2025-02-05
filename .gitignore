@@ -1,0 +1,54 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# PyCharm project files
+.idea/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# VSCode settings (if you use it alongside PyCharm)
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and other files
+*.log
+
+# Test and coverage reports
+.coverage
+.coverage.*
+nosetests.xml
+pytest.xml
+test_*.xml
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pylint
+pylint_report.txt
+pylint_globalrc
+
+# Spyder settings
+.spyproject
+
+# PyInstaller
+*.manifest
+*.spec
